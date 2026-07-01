@@ -5,7 +5,7 @@
 ### Electronic & Telecommunication Engineer ⚡ AI/ML ⚡ Embedded Systems ⚡ Computer Vision
 
 <a href="https://github.com/PabasaraIlankoon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=800&color=FF6B35&center=true&vCenter=true&width=750&lines=Building+AI-powered+systems+that+save+lives+%F0%9F%94%A5;YOLOv8+%2B+Raspberry+Pi+%2B+Firebase+%2B+Flutter+%F0%9F%90%98;LoRa+%2B+ESP32+%2B+IoT+%2B+Disaster+Comms+%F0%9F%93%A1;Engineer+by+day%2C+debugger+by+night+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=800&color=FF6B35&center=true&vCenter=true&width=750&lines=Building+AI-powered+systems+that+save+lives+%F0%9F%94%A5;YOLOv8+%2B+Raspberry+Pi+%2B+Firebase+%2B+Flutter+%F0%9F%90%98;LoRa+%2B+ESP32+%2B+IoT+%2B+Disaster+Communication+Systems+%F0%9F%93%A1;Engineer+by+day%2C+debugger+by+night+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
 </a>
 
 <br><br>
@@ -47,7 +47,7 @@ near railway tracks to building disaster communication networks that work withou
 - 🏆 Active in robotics competitions - RoboGames, ROSCO, Mars Robot Competition
 - 💬 Ask me about **YOLO/CNN object detection**, **ESP32 & Raspberry Pi edge deployment** and **LoRa-based disaster communications**
 
-> 🔥 *"If it works, it's not luck - it's debugging."*
+ 🔥 *"If it works, it's not luck - it's debugging."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
