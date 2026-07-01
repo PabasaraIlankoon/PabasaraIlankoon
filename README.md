@@ -28,7 +28,7 @@
 
 <img align="right" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/man-technologist_1f468-200d-1f4bb.gif" width="120"/>
 
-I'm **Pabasara Ilankoon**, an Electronic & Telecommunication Engineering undergraduate who turns embedded
+I'm **Pabasara Ilankoon**, a third year Electronic & Telecommunication Engineering undergraduate at General Sir John Kotelawala Defence University and second year Information Technology undergtaduate at University of Colombo School of Computing who turns embedded
 hardware, computer vision, and cloud platforms into systems that solve real problems - from detecting elephants
 near railway tracks to building disaster communication networks that work without the internet.
 
@@ -94,7 +94,7 @@ operators, cross-referencing live train schedules to flag exactly which trains a
 ### 🤖 Robotics & Embedded Systems
 
 <details open>
-<summary><b>🔥 Mars Robot Competition — Autonomous Robotics System</b></summary>
+<summary><b>🔥 Mars Robot Competition | Autonomous Robotics System</b></summary>
 <br>
 
 Autonomous robot for competition navigation and object handling. Sensor fusion (IR, ultrasonic, gyroscope, color
@@ -105,7 +105,7 @@ control via TB6612FNG.
 </details>
 
 <details>
-<summary><b>ROSCO'25 Competition Robot - Autonomous Line & Wall Following Robot</b></summary>
+<summary><b>ROSCO'25 Competition Robot | Autonomous Line & Wall Following Robot</b></summary>
 <br>
 
 Autonomous line following, wall following, and ramp navigation using VL53L0X ToF sensors, IR array, and MPU6050
@@ -115,7 +115,7 @@ IMU sensor fusion. Laser-cut acrylic chassis with custom 3D-printed parts and en
 </details>
 
 <details>
-<summary><b>LankaMesh — LoRa-Based Disaster Communication System</b></summary>
+<summary><b>LankaMesh | LoRa-Based Disaster Communication System</b></summary>
 <br>
 
 Decentralized emergency communication system for disaster zones with no internet or cellular coverage. Long-range
@@ -128,7 +128,7 @@ categorisation.
 ### 🧠 AI, ML & Computer Vision
 
 <details open>
-<summary><b>🔥 AgroVision AI — Intelligent Tomato Leaf Disease Detection System</b></summary>
+<summary><b>🔥 AgroVision AI | Intelligent Tomato Leaf Disease Detection System</b></summary>
 <br>
 
 Full-stack AI system for plant disease detection using a MobileNetV2 transfer-learning model for multi-class
@@ -151,7 +151,7 @@ AWGN channel effects, and BER vs SNR performance evaluation with interactive Plo
 ### 🌐 Full-Stack & IoT
 
 <details open>
-<summary><b>Personal Finance Manager - Full-Stack Financial Tracking Web App (Ongoing)</b></summary>
+<summary><b>Personal Finance Manager | Full-Stack Financial Tracking Web App (Ongoing)</b></summary>
 <br>
 
 Full-stack finance tracker with JWT-secured REST APIs, real-time analytics dashboards, and budget visualisation.
@@ -160,7 +160,7 @@ Full-stack finance tracker with JWT-secured REST APIs, real-time analytics dashb
 </details>
 
 <details>
-<summary><b>FeelFill - Smart Blind-Friendly Measuring Cup (Ongoing)</b></summary>
+<summary><b>FeelFill | Smart Blind-Friendly Measuring Cup (Ongoing)</b></summary>
 <br>
 
 Assistive device using non-contact capacitive sensing to detect liquid levels through cup walls, with vibration and
