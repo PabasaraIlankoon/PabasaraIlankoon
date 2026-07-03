@@ -36,7 +36,7 @@ near railway tracks to building disaster communication networks that work withou
 |---|---|
 | 🎓 **University** | BSc. (Hons) in Electronic and Telecommunication Engineering - General Sir John Kotelawala Defence University |
 | 📘 **Also Studying** | BSc. in Information Technology (External) - University of Colombo School of Computing |
-| 🔬 **Focus Areas** | Embedded Systems · Artificial Intelligence · Computer Vision · IoT · Wireless Communication |
+| 🔬 **Focus Areas** | Embedded Systems | Robotics | Artificial Intelligence | Computer Vision | IoT | Wireless Communication |
 | 🐘 **Current Research** | **Elevision** - Real-Time AI-Powered Elephant Detection & Alert System for Railway Safety |
 | 📝 **Status** | Preprint manuscript under preparation |
 
