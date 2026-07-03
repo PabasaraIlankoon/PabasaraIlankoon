@@ -36,18 +36,18 @@ near railway tracks to building disaster communication networks that work withou
 |---|---|
 | 🎓 **University** | BSc. (Hons) in Electronic and Telecommunication Engineering - General Sir John Kotelawala Defence University |
 | 📘 **Also Studying** | BSc. in Information Technology (External) - University of Colombo School of Computing |
-| 🔬 **Focus Areas** | Embedded Systems | Robotics | Artificial Intelligence | Computer Vision | IoT | Wireless Communication |
-| 🐘 **Current Research** | **Elevision** - Real-Time AI-Powered Elephant Detection & Alert System for Railway Safety |
+| 🔬 **Focus Areas** | Embedded Systems · Robotics · Artificial Intelligence · Computer Vision · IoT · Wireless Communication |
+| 🐘 **Current Research** | **Elevision** > Real-Time AI-Powered Elephant Detection & Alert System for Railway Safety |
 | 📝 **Status** | Preprint manuscript under preparation |
 
 <br clear="right"/>
 
-- 🔭 Currently researching **Elevision** - an AI-based railway safety system using YOLOv8, edge AI, and IoT
+- 🔭 Currently researching **Elevision** > an AI-based railway safety system using YOLOv8, edge AI, and IoT
 - ⚡ Building real-time systems that bridge **embedded hardware**, **computer vision**, and **the cloud**
 - 🏆 Active in robotics competitions - RoboGames, ROSCO, Mars Robot Competition
 - 💬 Ask me about **YOLO/CNN object detection**, **ESP32 & Raspberry Pi edge deployment** and **LoRa-based disaster communications**
 
- 🔥 *"If it works, it's not luck - it's debugging."*
+ 🔥 *"If it works, it's not luck; it's debugging."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
