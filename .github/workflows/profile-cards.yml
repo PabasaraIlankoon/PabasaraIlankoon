@@ -46,14 +46,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update profile cards" || exit 0
           git push
-
-      - name: Generate isometric contribution calendar (activity graph)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: profile/activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: commit
-          committer_branch: main
