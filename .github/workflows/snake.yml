@@ -1,31 +1,30 @@
-name: Generate Fire Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day
-  workflow_dispatch:        # allow manual runs from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate-snake:
+  generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution snake (fire palette)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: PabasaraIlankoon
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#FF6B35&color_dots=#161B22,#4A1A05,#B33A0E,#F09819,#FF6B35
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF6B35&color_dots=#161B22,#4A1A05,#B33A0E,#F09819,#FF6B35
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name:   PabasaraIlankoon
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
