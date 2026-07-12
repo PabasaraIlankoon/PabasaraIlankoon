@@ -240,13 +240,10 @@ buzzer feedback, built around a low-power ESP32-C3 Mini design.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PabasaraIlankoon/PabasaraIlankoon/main/profile/stats.svg" height="165"/>
 <img src="https://raw.githubusercontent.com/PabasaraIlankoon/PabasaraIlankoon/main/profile/streak.svg" height="165"/>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/PabasaraIlankoon/PabasaraIlankoon/main/profile/top-langs.svg" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=PabasaraIlankoon&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" height="100"/>
 
 </div>
 
